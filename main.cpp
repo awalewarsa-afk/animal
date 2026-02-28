@@ -35,13 +35,13 @@ public:
 
 
 
-class BabyDog : public Dog {
+/*class BabyDog : public Dog {
 public:
     void speak() override {   //  ERROR
         cout << "Baby dog yaps" << endl;
     }
 };
-
+*/
 
 
 
